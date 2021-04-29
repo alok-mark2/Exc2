@@ -6,7 +6,7 @@ import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class ActivityLihatData extends AppCompatActivity {
-    TextView nama,notel;
+    TextView id,nama,notel;
 
     Bundle bundle = getIntent().getExtras();
 
@@ -19,6 +19,7 @@ public class ActivityLihatData extends AppCompatActivity {
 
         switch (nama){
 
+                id.setText(nama;
                 nama.setText(nama;
                 notel.setText(notel);
                 break;
