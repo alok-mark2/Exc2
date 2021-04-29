@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">KelasBsqlite</string>
+
+    <string name="lihatdata">Lihat Data</string>
+    <string name="editdata">Edit Data</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+
+    <string name="Dkontak">Data Kontak</string>
+    <string name="namaitem">Nama Item</string>
+    <string name="detailKontak">Detail kontak</string>
+    <string name="nama">Nama</string>
+    <string name="notel">Nomor Telepon</string>
+
 </resources>
